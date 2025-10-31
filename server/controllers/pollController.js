@@ -1,6 +1,6 @@
 // TODO
 // ACTIVITY - Refactor all controller functions to handle requests!
-
+//joe
 const Poll = require("../models/Poll");
 
 // add req, res to parameters
